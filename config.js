@@ -10,7 +10,7 @@ module.exports = {
      */
     botname: process.env.BotName || "[The Desertor] ₥ØⱧ ₮ⱧɆ ₮₳Ɽ₲Ɇ₮",
     footer: process.env.Footer || "© Mahamoud Chan Bot",
-    prefa: process.env.Prefix || "/",
+    prefa: process.env.Prefix || ".",
     themeemoji: process.env.ThemeEmoji || "🥷",
 
     /**
